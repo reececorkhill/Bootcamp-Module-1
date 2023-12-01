@@ -1,0 +1,42 @@
+* {
+    color: #FFFFFF;
+}
+
+body {
+    background-color: #00ADE6;
+}
+
+h1 {
+    text-align: center;
+}
+
+.navbar {
+    position: fixed;
+    background-color: #0090BE;
+    margin: 0;
+    width: 99%;
+    border: solid;
+    border-radius: 15px;
+    border-color: white;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+
+}
+
+li {
+    display: inline;
+    padding: 55px;
+}
+
+main {
+    position: relative;
+    top: 135px;
+    width: auto;
+    border: solid;
+    border-radius: 15px;
+    border-color: white;
+    background-color: #0090BE;
+}
