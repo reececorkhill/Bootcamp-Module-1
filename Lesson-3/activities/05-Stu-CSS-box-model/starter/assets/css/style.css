@@ -9,4 +9,14 @@ img {
   width: 200px;
   height: 200px;
   background-color: lightblue;
+  /* Margin property */
+  margin: 20px;
+  /* Padding property */
+  padding: 20px;
+  /* Border property */
+  border: 9px solid darkblue;
 }
+
+/* BONUS QUESTION */
+
+/* The float property specifies whether an element should float to the left, right, or not at all. */
